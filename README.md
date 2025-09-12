@@ -1,26 +1,22 @@
 # scatterbin
 Adjustable binning of scatter plot data
 
-`pip install scatterbin`
+`pip install scatterbin`<br />
 
 ---
 
 Requires
-`import numpy as np`
-
-`import pandas as pd`
-
-`import matplotlib.pyplot as plt`
-
-`import matplotlib.ticker as ticker`
-
-`from scipy import stats`
-
-`import sys` 
+`import numpy as np`<br />
+`import pandas as pd`<br />
+`import matplotlib.pyplot as plt`<br />
+`import matplotlib.ticker as ticker`<br />
+`from scipy import stats`<br />
+`import sys` <br />
 
 ---
+---
 
-`import scatterbin`
+`import scatterbin`<br />
 `scatterbin.plot(data)`  
 
 where data is an array 2D array of the x and y data.  
