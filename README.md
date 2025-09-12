@@ -1,6 +1,15 @@
 # scatterbin
 Adjustable binning of scatter plot data
 
+`pip install scattebin`
+
+`import scatterbin`
+`scatterbin.plot(data)`  
+
+where data is an array 2D array of the x and y data.  
+
+See src/demos.ipynb for examples
+
 ![](https://raw.githubusercontent.com/steviecurran/scatterbin/refs/heads/main/hw_123_test.png)
 
 ![](https://raw.githubusercontent.com/steviecurran/scatterbin/refs/heads/main/hw_all_test.png)
