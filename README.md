@@ -1,7 +1,7 @@
 # scatterbin
 Adjustable binning of scatter plot data
 
-`pip install scattebin`
+`pip install scatterbin`
 
 `import scatterbin`
 `scatterbin.plot(data)`  
