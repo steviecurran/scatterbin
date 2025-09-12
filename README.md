@@ -8,7 +8,7 @@ Adjustable binning of scatter plot data
 
 where data is an array 2D array of the x and y data.  
 
-See src/scatter/bin/demos.ipynb for examples
+See src/scatterbin/demos.ipynb for examples
 
 ![](https://raw.githubusercontent.com/steviecurran/scatterbin/refs/heads/main/hw_123_test.png)
 
