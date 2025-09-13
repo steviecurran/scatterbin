@@ -13,9 +13,8 @@ Requires
 
 `import numpy as np`<br />
 `import pandas as pd`<br />
----
-
 `import scatterbin`<br />
+
 `scatterbin.plot(data)`  
 
 where data is an array 2D array of the x and y data.  
