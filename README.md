@@ -10,6 +10,7 @@ Adjustable binning of scatter plot data
 ---
 
 Requires
+
 `import numpy as np`<br />
 `import pandas as pd`<br />
 ---
