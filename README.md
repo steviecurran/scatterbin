@@ -12,11 +12,6 @@ Adjustable binning of scatter plot data
 Requires
 `import numpy as np`<br />
 `import pandas as pd`<br />
-`import matplotlib.pyplot as plt`<br />
-`import matplotlib.ticker as ticker`<br />
-`from scipy import stats`<br />
-`import sys` <br />
-
 ---
 
 `import scatterbin`<br />
