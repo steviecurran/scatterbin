@@ -15,7 +15,7 @@ Requires
 `import pandas as pd`<br />
 `import scatterbin`<br />
 
-`scatterbin.plot(data)`  
+`scatterbin.scatterbin(data)`  
 
 where data is an array 2D array of the x and y data.  
 
